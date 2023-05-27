@@ -20,7 +20,7 @@ inducing a central theme for critics and users to discuss, as the more the revie
 users overlaps, the higher a movie’s revenue.'
 date: 
 venue: 
-paperurl: 'http://academicpages.github.io/files/topic consistency.pdf'
+paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/00222429221127927'
 ---
 
 [Download paper here](http://academicpages.github.io/files/topic consistency.pdf)
