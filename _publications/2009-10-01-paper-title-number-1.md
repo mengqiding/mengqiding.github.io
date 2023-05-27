@@ -23,4 +23,3 @@ venue:
 paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/00222429221127927'
 ---
 
-[Download paper here](http://academicpages.github.io/files/topic consistency.pdf)
