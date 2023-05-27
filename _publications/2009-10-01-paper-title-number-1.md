@@ -22,4 +22,4 @@ date:
 venue: 
 paperurl:
 ---
-[Download paper here](http://mengqiding.github.io/files/topic_consistency.pdf)
+
