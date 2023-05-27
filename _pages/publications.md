@@ -2,7 +2,7 @@
 layout: archive
 title: "Eunsoo Kim, MengQi(Annie) Ding, Shijie Lu and Xin (Shane) Wang (2023), “Does Topic Consistency 
 Matter? A Study of Critic and User Reviews in the Movie Industry”, Journal of Marketing, 87(3), 428–450"
-permalink: 
+permalink: /files/topic consistency.pdf
 author_profile: true
 ---
 Online review platforms often present reviews from both critics and general users. In this research, 
