@@ -24,7 +24,7 @@ inducing a central theme for critics and users to discuss, as the more the revie
 users overlaps, the higher a movie’s revenue
 
 **MengQi (Annie) Ding** and Avi Goldfarb (2023), “The Economics of Artificial Intelligence: A Marketing
-Perspective”, <i>Review of Marketing Research</i>, Vol 20,13-26.Full text available at: <a href = "https://www.emerald.com/insight/content/doi/10.1108/S1548-643520230000020002/full/html"> https://journals.sagepub.com/doi/abs/10.1177/00222429221127927</a>
+Perspective”, <i>Review of Marketing Research</i>, Vol 20,13-26. Full text available at: <a href = "https://www.emerald.com/insight/content/doi/10.1108/S1548-643520230000020002/full/html"> https://journals.sagepub.com/doi/abs/10.1177/00222429221127927</a>
 
 Abstract: This article reviews the quantitative marketing literature on artificial intelligence (AI) through an
 economics lens. We apply the framework in Prediction Machines: The Simple Economics of Artificial
