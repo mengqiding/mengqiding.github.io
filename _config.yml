@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MengQi(Annie) Ding's Homepage"
+title                    : "MengQi Ding's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
