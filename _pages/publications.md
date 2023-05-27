@@ -23,6 +23,16 @@ information recall of reviews. Movie producers and advertisers should consider h
 inducing a central theme for critics and users to discuss, as the more the review content of critics and 
 users overlaps, the higher a movie’s revenue
 
+**MengQi (Annie) Ding** and Avi Goldfarb (2023), “The Economics of Artificial Intelligence: A Marketing
+Perspective”, <i>Review of Marketing Research</i>, Vol 20,13-26.Full text available at: <a href = "https://www.emerald.com/insight/content/doi/10.1108/S1548-643520230000020002/full/html"> https://journals.sagepub.com/doi/abs/10.1177/00222429221127927</a>
+
+Abstract: This article reviews the quantitative marketing literature on artificial intelligence (AI) through an
+economics lens. We apply the framework in Prediction Machines: The Simple Economics of Artificial
+Intelligence to systematically categorize 96 research papers on AI in marketing academia into five
+levels of impact, which are prediction, decision, tool, strategy, and society. For each paper, we further
+identify each individual component of a task, the research question, the AI model used, and the broad
+decision type. Overall, we find there are fewer marketing papers focusing on strategy and society, and
+accordingly, we discuss future research opportunities in those areas.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
