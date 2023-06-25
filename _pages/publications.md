@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /paper/
 author_profile: true
 ---
 Eunsoo Kim, **MengQi(Annie) Ding**, Shijie Lu and Xin (Shane) Wang (2023), “Does Topic Consistency Matter? 
