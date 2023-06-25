@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Eunsoo Kim, **MengQi(Annie) Ding**, Shijie Lu and Xin (Shane) Wang (2023), “Does Topic Consistency Matter? 
-A Study of Critic and User Reviews in the Movie Industry”,<i> Journal of Marketing</i>, 87(3), 428–450. Full text available at: <a href = "https://journals.sagepub.com/doi/abs/10.1177/00222429221127927"> https://journals.sagepub.com/doi/abs/10.1177/00222429221127927</a>
+A Study of Critic and User Reviews in the Movie Industry”,<i> Journal of Marketing</i>, 87(3), 428–450. Full text available at: <a href = "https://journals.sagepub.com/doi/abs/10.1177/00222429221127927"> https://journals.sagepub.com/doi/abs/10.1177/00222429221127927</a> 
 
 <font size="-1">Abstract: Online review platforms often present reviews from both critics and general users. In this research, 
 the authors propose a measure called “topic consistency” to capture the degree of overlap between 
