@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth-year Ph.D. candidate in Quantitative Marketing at the Ivey Business School. My advisor is Professor Shane Wang. My projects are focused on big data, unstructured data (e.g., text, images, and audio) and online 
+I am currently a fifth-year Ph.D. candidate in Quantitative Marketing at the Ivey Business School. My advisor is Professor Shane Wang. My projects are focused on Machine Learning, AI, unstructured data (e.g., text, images, and audio) and online 
 word of mouth. In my research, I strive to empirically model the causal impact of user-generated content. 
 Also, I am interested in developing new metrics and methodological tools for manager to employ.
